@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [The Mycelium Network Webworkbook](https://github.com/The-Mycelium-Network/webworkbook)
 
-- 🌱 I’m currently learning **Tailwind and JavaScript**
+- 🌱 I’m currently learning **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
