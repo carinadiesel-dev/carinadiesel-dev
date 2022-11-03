@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carina Diesel</h1>
-<h3 align="center">A ardent Software Engineer and utilitarian resource collector from South Africa</h3>
+<h3 align="center">An ardent Software Engineer and utilitarian resource collector from South Africa</h3>
 
 <p align="left"> <a href="https://twitter.com/carinadieseldev" target="blank"><img src="https://img.shields.io/twitter/follow/carinadieseldev?logo=twitter&style=for-the-badge" alt="carinadieseldev" /></a> </p>
 
