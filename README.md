@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/carinadieseldev" target="blank"><img src="https://img.shields.io/twitter/follow/carinadieseldev?logo=twitter&style=for-the-badge" alt="carinadieseldev" /></a> </p>
 
-- 🔭 I’m currently working on [The Mycelium Network Webworkbook](https://github.com/The-Mycelium-Network/webworkbook)
+- 🔭 I’m currently working on [The Calico Creatives Website](https://github.com/carinadiesel-dev/calico-creatives)
 
 - 🌱 I’m currently learning **Tailwind and JavaScript**
 
