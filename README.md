@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋🏻, I'm Carina Diesel</h1>
-<h3 align="center">A Front-End Developer learning backend development</h3>
+![Header](./githubHeader.png)
+
+<h1 align="center">Hi there👋🏻</h1>
 
 - 🌱 I’m currently learning **Python**
 
